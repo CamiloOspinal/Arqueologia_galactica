@@ -1,4 +1,4 @@
-# Arqueologia_galactica
+# Arqueología Galáctica
 
 ## Introduction
 This repository was created for the first project of Minería de Datos en Astronomía Course. It consists of building an HR diagram using Gaia DR3 data, selecting the first 50.000 stars with a parallax less than or equal to 5 mas or 200 pc. The goal is to select the Main-Sequence (MS) stars and the Red Giant (RG) stars.
